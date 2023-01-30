@@ -12,13 +12,13 @@ The Amiga 500, was released by the manufactoring company Commodore in 1987.
 
 
 ## MacBook Air 
-
+This MacBook Air, was released by Apple in 2020. 
 
 
 ## Comparison Summary
 |   | Amiga 500 | MacBook air 
 | --- | --- | ---
-| Processor type and speed | something | 1.1 GHz Dual-Core Intel Core i3 |
-| GPU | blank | Intel Iris Plus Graphics 1536 MB |
-| Storage |  | Macintosh HD 251 GB Flash Storage  |
-| Memory | 512KB | 8GB |
+| Processor type and speed | 7.14 MHz Motorola 68000 | 1.1 GHz Dual-Core Intel Core i3 |
+| GPU |  |  |
+| Storage | Internal 880K 3.5-inch floppy | Macintosh HD 251  |
+| Memory | 512K | 8GB |

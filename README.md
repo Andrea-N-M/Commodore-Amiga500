@@ -7,7 +7,7 @@ The Amiga 500, was released by the manufactoring company Commodore in 1987.
 
 [Click here to find out more](
 
-![amiga500](
+![amiga500](amiga500.jpg)
 
 
 

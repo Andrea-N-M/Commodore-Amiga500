@@ -4,7 +4,7 @@
 ## Commodore Amiga 500
 The *Amiga 500*, was released by the manufactoring company Commodore in 1987. This has a processor called Motorola 68000 with a speed of 7.14MHz. It has an internal 880K 3.5-inch floppy storage, a memory of 512k, and graphics of 640 x 256, 6bpp. 
 
-[Click here to find out more](https://www.computinghistory.org.uk/det/7800/Commodore-Amiga-A500/)
+> [Click here to find out more](https://www.computinghistory.org.uk/det/7800/Commodore-Amiga-A500/)
 
 ![amiga500](amiga500.jpg)
 

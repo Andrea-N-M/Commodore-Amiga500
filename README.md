@@ -21,7 +21,7 @@ This *MacBook Air*, was released by Apple in 2020. It has a processor called Dua
 
 
 ## Comparison Summary
-|   | Amiga 500 | MacBook air |
+|    | Amiga 500 | MacBook air |
 | --- | --- | --- |
 | Processor type and speed | 7.14 MHz Motorola 68000 | 1.1 GHz Dual-Core Intel Core i3 |
 | Graphics | 640 × 256, 6 bpp | Intel Iris Plus Graphics 1536 MB |

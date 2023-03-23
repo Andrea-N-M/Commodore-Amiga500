@@ -12,7 +12,8 @@ The *Amiga 500*, was released by the manufactoring company Commodore in 1987. Th
 
 
 ## MacBook Air 
-This *MacBook Air*, was released by Apple in 2020. It has a processor called Dual-Core Intel Core i3 with a speed of 1.1 GHZ. It has a storage of 251GB called Macintosh HD, has a memory of 8GB, and graphics of 1536MB called Intel Iris Plus Graphics. 
+This *MacBook Air*, was released by Apple in 2020. It has a processor called Dual-Core Intel Core i3 with a speed of 1.1 GHZ. It has a storage of 251GB called Macintosh HD, has a memory of 8GB, and graphics of 1536MB called Intel Iris Plus Graphics.[^1] 
+
 
 ![macbookair 2020](macbookair_2020.jpeg)
 
@@ -38,3 +39,7 @@ This *MacBook Air*, was released by Apple in 2020. It has a processor called Dua
 2. https://oldcomputers.net/amiga500.html
 3. https://www.howtoretro.com/commodore-amiga-the-definitive-guide/
 4. https://vintage-computer.com/machines.php?amiga500 
+
+---
+
+[^1]: This is my computer. 

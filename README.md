@@ -35,10 +35,10 @@ This *MacBook Air*, was released by Apple in 2020. It has a processor called Dua
 
 
 ### More Information about Amiga 500
-1. https://www.computinghistory.org.uk/det/7800/Commodore-Amiga-A500/
-2. https://oldcomputers.net/amiga500.html
-3. https://www.howtoretro.com/commodore-amiga-the-definitive-guide/
-4. https://vintage-computer.com/machines.php?amiga500 
+1. [This link has history and specific information ](https://www.computinghistory.org.uk/det/7800/Commodore-Amiga-A500/)
+2. [link has basic information](https://oldcomputers.net/amiga500.html)
+3. [Has background information and history of the Commodore Amiga computers](https://www.howtoretro.com/commodore-amiga-the-definitive-guide/)
+4. [Has a description on an Amiga 500 computer](https://vintage-computer.com/machines.php?amiga500)
 
 ---
 
